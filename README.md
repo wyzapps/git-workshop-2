@@ -7,6 +7,8 @@ lexoyo est passé ici!
 
 et ici!
 
+mais pas là !!!
+
 ## A propos
 
 * [workshop blog post](http://www.silexlabs.org/201667/silex/atelier-git-2-utilisation-avancee/)
